@@ -162,18 +162,26 @@
       status.className = "status";
       if (form.elements["website"].value) return; /* anti-spam : champ piège rempli */
       if (!validate()) { show("bad", "Certains champs sont à corriger."); return; }
-      if (!cfg.formEndpoint) {
+      var endpoint = cfg.web3formsKey ? "https://api.web3forms.com/submit" : cfg.formEndpoint;
+      if (!endpoint) {
         show("info", "Le formulaire n'est pas encore relié à un service d'envoi : votre message n'a PAS été transmis. Merci de réessayer plus tard ou de nous contacter directement.");
         return;
       }
       btn.disabled = true; btn.classList.add("loading");
       var fd = new FormData(form); fd.delete("website");
-      fetch(cfg.formEndpoint, { method: "POST", body: fd, headers: { Accept: "application/json" } })
+      if (cfg.web3formsKey) {
+        fd.append("access_key", cfg.web3formsKey);
+        fd.append("subject", "Nouvelle demande via helvyra.fr");
+        fd.append("from_name", "Site helvyra.fr");
+      }
+      fetch(endpoint, { method: "POST", body: fd, headers: { Accept: "application/json" } })
         .then(function (r) {
-          if (!r.ok) throw new Error("http " + r.status);
-          form.reset(); show("ok", "Merci, votre message a bien été transmis. Nous revenons vers vous.");
+          return r.json().catch(function () { return {}; }).then(function (j) {
+            if (!r.ok || j.success === false) throw new Error(j.message || ("http " + r.status));
+            form.reset(); show("ok", "Merci, votre message a bien été transmis. Nous revenons vers vous.");
+          });
         })
-        .catch(function () { show("bad", "L'envoi a échoué. Vérifiez votre connexion et réessayez."); })
+        .catch(function () { show("bad", "L'envoi a échoué. Vérifiez votre connexion et réessayez, ou écrivez-nous directement."); })
         .finally(function () { btn.disabled = false; btn.classList.remove("loading"); });
     });
     form.querySelectorAll("input,select,textarea").forEach(function (i) {
