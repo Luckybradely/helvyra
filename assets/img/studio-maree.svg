@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200"><defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B2B33"/><stop offset=".62" stop-color="#1D6A72"/><stop offset=".62" stop-color="#0A2026"/><stop offset="1" stop-color="#05131A"/></linearGradient></defs>
+<rect width="1200" height="1200" fill="url(#s)"/>
+<rect x="465" y="505" width="270" height="270" fill="#F0C987" fill-opacity=".92" transform="rotate(45 600 640)"/>
+<rect y="744" width="1200" height="456" fill="#0A2026"/>
+<g stroke="#F0C987" stroke-opacity=".5" stroke-width="3"><line x1="420" y1="780" x2="780" y2="780"/><line x1="470" y1="820" x2="730" y2="820"/><line x1="520" y1="862" x2="680" y2="862"/></g>
+<text x="600" y="210" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#EAF3F2" letter-spacing="16">STUDIO MARÉ</text>
+<text x="600" y="1060" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" fill="#F0C987">Un hôtel, une lumière.</text>
+<text x="600" y="1120" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#9FC2C4" letter-spacing="8">CONCEPT · FORMAT CARRÉ</text>
+</svg>

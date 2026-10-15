@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3EADD"/><stop offset="1" stop-color="#E6D5BF"/></linearGradient>
+<radialGradient id="amb" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#E9B96A"/><stop offset="1" stop-color="#B9772F"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".05"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".35"/></linearGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#bg)"/>
+<text x="90" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#2A1D12" letter-spacing="2">Maison Orée</text>
+<g font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#4A3828" letter-spacing="2">
+<text x="860" y="90">SOINS</text><text x="960" y="90">RITUELS</text><text x="1080" y="90">JOURNAL</text><text x="1200" y="90">PANIER (0)</text></g>
+<line x1="90" y1="130" x2="1510" y2="130" stroke="#2A1D12" stroke-opacity=".18"/>
+<text x="90" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="124" fill="#2A1D12">La peau,</text>
+<text x="90" y="460" font-family="Georgia, 'Times New Roman', serif" font-size="124" font-style="italic" fill="#A8641F">en lumière.</text>
+<text x="94" y="540" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#4A3828">Des soins pensés pour révéler, jamais pour masquer.</text>
+<rect x="94" y="590" width="260" height="62" fill="#2A1D12"/>
+<text x="224" y="629" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#F3EADD" letter-spacing="2">DÉCOUVRIR</text>
+<rect x="920" y="330" width="420" height="420" fill="#EAD9C2" transform="rotate(45 1130 540)"/>
+<rect x="1040" y="290" width="180" height="440" fill="url(#amb)"/>
+<rect x="1040" y="290" width="180" height="440" fill="url(#glass)"/>
+<rect x="1085" y="228" width="90" height="80" fill="#2A1D12"/>
+<text x="1130" y="540" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#2A1D12" letter-spacing="3">ORÉE</text>
+<line x1="1066" y1="570" x2="1194" y2="570" stroke="#2A1D12" stroke-opacity=".5"/>
+<text x="1130" y="600" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#2A1D12" letter-spacing="3">SÉRUM LUMIÈRE</text>
+<g font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#4A3828" letter-spacing="2"><text x="90" y="900">FORMULES SIMPLES</text><text x="520" y="900">FABRIQUÉ EN FRANCE (CONCEPT)</text><text x="1100" y="900">LIVRAISON OFFERTE (CONCEPT)</text></g>
+</svg>

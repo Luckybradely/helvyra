@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000"><defs><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E4E8E0"/><stop offset="1" stop-color="#CBD2C6"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#w)"/>
+<text x="90" y="95" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#1E2A22" letter-spacing="8">ATELIER NORDIK</text>
+<g font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1E2A22" letter-spacing="2"><text x="1100" y="92">COLLECTION</text><text x="1260" y="92">ATELIER</text><text x="1380" y="92">CONTACT</text></g>
+<text x="90" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#1E2A22">Habiter</text>
+<text x="90" y="545" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-style="italic" fill="#4F6B58">le calme.</text>
+<text x="94" y="625" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#2F3D34">Du mobilier en chêne massif, dessiné pour durer.</text>
+<line x1="94" y1="690" x2="400" y2="690" stroke="#1E2A22" stroke-width="2"/>
+<text x="94" y="730" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#1E2A22">VOIR LA COLLECTION</text>
+<rect x="940" y="180" width="560" height="620" fill="#B9C3B2"/>
+<rect x="1040" y="360" width="360" height="40" fill="#8A6A44"/>
+<rect x="1060" y="400" width="26" height="250" fill="#6B4F30"/><rect x="1354" y="400" width="26" height="250" fill="#6B4F30"/>
+<rect x="1120" y="270" width="220" height="90" fill="#D9CDB6"/>
+<rect x="1100" y="360" width="260" height="14" fill="#8A6A44"/>
+<rect x="1170" y="610" width="180" height="180" fill="none" stroke="#4F6B58" stroke-width="2" stroke-opacity=".5" transform="rotate(45 1260 700)"/>
+<g font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#1E2A22"><text x="90" y="900">CHÊNE MASSIF (CONCEPT)</text><text x="520" y="900">ATELIER EN FRANCE (CONCEPT)</text><text x="1000" y="900">SUR COMMANDE (CONCEPT)</text></g>
+</svg>

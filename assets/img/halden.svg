@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000"><defs><linearGradient id="n" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E1626"/><stop offset="1" stop-color="#16233B"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#n)"/>
+<text x="90" y="95" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#F2F4F8" letter-spacing="6">HALDEN</text>
+<g font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#A9B4C8" letter-spacing="2"><text x="980" y="92">MÉTHODE</text><text x="1110" y="92">EXPERTISES</text><text x="1260" y="92">ÉQUIPE</text><text x="1370" y="92">CONTACT</text></g>
+<text x="90" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="132" fill="#F2F4F8">Décider</text>
+<text x="90" y="530" font-family="Georgia, 'Times New Roman', serif" font-size="132" font-style="italic" fill="#7FA8FF">avec clarté.</text>
+<text x="94" y="610" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#A9B4C8">Conseil en organisation pour dirigeants de PME (concept).</text>
+<rect x="94" y="660" width="250" height="60" fill="#7FA8FF"/><text x="219" y="698" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#0E1626" letter-spacing="2">ÉCHANGER</text>
+<g transform="translate(900 260)"><rect width="610" height="480" fill="#101C30" stroke="#2A3B5C"/>
+<g stroke="#2A3B5C"><line x1="40" y1="100" x2="570" y2="100"/><line x1="40" y1="200" x2="570" y2="200"/><line x1="40" y1="300" x2="570" y2="300"/><line x1="40" y1="400" x2="570" y2="400"/></g>
+<polyline points="40,380 150,330 250,350 360,240 470,200 570,120" fill="none" stroke="#7FA8FF" stroke-width="5"/>
+<g fill="#7FA8FF"><rect x="143" y="323" width="14" height="14" transform="rotate(45 150 330)"/><rect x="353" y="233" width="14" height="14" transform="rotate(45 360 240)"/><rect x="563" y="113" width="14" height="14" transform="rotate(45 570 120)"/></g>
+<text x="40" y="60" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#A9B4C8" letter-spacing="3">INDICATEUR D'EXEMPLE (CONCEPT)</text></g>
+</svg>

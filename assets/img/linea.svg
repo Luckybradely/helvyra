@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1600" width="900" height="1600"><defs><linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EFE7DC"/><stop offset="1" stop-color="#C9764A"/></linearGradient></defs>
+<rect width="900" height="1600" fill="url(#t)"/>
+<path d="M-50 380 C 250 260 450 560 950 420 L950 560 C 480 720 260 420 -50 560 Z" fill="#F7F1E8" fill-opacity=".85"/>
+<path d="M-50 640 C 220 560 520 860 950 700 L950 860 C 520 1020 240 740 -50 820 Z" fill="#A9552B" fill-opacity=".75"/>
+<path d="M-50 930 C 260 860 480 1100 950 980 L950 1100 C 520 1220 260 1000 -50 1090 Z" fill="#6E3418" fill-opacity=".8"/>
+<text x="450" y="210" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="120" fill="#1B1109" letter-spacing="22">LINÉA</text>
+<text x="450" y="1380" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-style="italic" fill="#F7F1E8">Le mouvement, d'abord.</text>
+<text x="450" y="1450" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#F7F1E8" letter-spacing="8">CONCEPT · FORMAT VERTICAL</text>
+</svg>

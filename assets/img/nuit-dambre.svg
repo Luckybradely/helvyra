@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900"><defs>
+<radialGradient id="g" cx=".62" cy=".5" r=".55"><stop offset="0" stop-color="#C98A2E" stop-opacity=".85"/><stop offset=".5" stop-color="#5A3410" stop-opacity=".5"/><stop offset="1" stop-color="#070605" stop-opacity="0"/></radialGradient>
+<linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#3A2208"/><stop offset=".4" stop-color="#D79A3C"/><stop offset="1" stop-color="#2A1806"/></linearGradient></defs>
+<rect width="1600" height="900" fill="#070605"/><rect width="1600" height="900" fill="url(#g)"/>
+<rect x="1000" y="190" width="210" height="440" fill="url(#b)"/>
+<rect x="1055" y="130" width="100" height="70" fill="#0B0907" stroke="#C98A2E" stroke-opacity=".6"/>
+<text x="1105" y="420" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#0B0907" letter-spacing="6">AMBRE</text>
+<line x1="0" y1="640" x2="1600" y2="640" stroke="#C98A2E" stroke-opacity=".35"/>
+<ellipse cx="1105" cy="650" ry="26" fill="#C98A2E" fill-opacity=".18"/>
+<text x="110" y="470" font-family="Georgia, 'Times New Roman', serif" font-size="96" fill="#F2E7D2" letter-spacing="14">NUIT</text>
+<text x="110" y="580" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-style="italic" fill="#D79A3C" letter-spacing="8">d'Ambre</text>
+<text x="114" y="650" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#9B8F7A" letter-spacing="8">FILM PUBLICITAIRE · CONCEPT</text>
+</svg>
